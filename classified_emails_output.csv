@@ -1,0 +1,21 @@
+sender,subject,priority,category
+eve@startup.io,Help required with account verification,1,Account Issue
+diana@client.co,General query about subscription,1,Account Issue
+eve@startup.io,Immediate support needed for billing error,1,Billing Issue
+alice@example.com,Urgent request: system access blocked,1,Account Issue
+eve@startup.io,Question: integration with API,0,Account Issue
+alice@example.com,Critical help needed for downtime,1,Account Issue
+diana@client.co,Help required with account verification,1,Account Issue
+diana@client.co,Support needed for login issue,0,Account Issue
+alice@example.com,General query about subscription,1,Subscription
+alice@example.com,Help required with account verification,1,Account Issue
+diana@client.co,Support needed for login issue,1,Account Issue
+alice@example.com,Help required with account verification,1,Account Issue
+eve@startup.io,Critical help needed for downtime,1,General Query
+alice@example.com,Query about product pricing,1,Billing Issue
+alice@example.com,General query about subscription,0,Account Issue
+alice@example.com,Immediate support needed for billing error,1,Account Issue
+charlie@partner.org,Help required with account verification,1,Account Issue
+diana@client.co,Request for refund process clarification,0,General Query
+eve@startup.io,Query about product pricing,1,Billing Issue
+bob@customer.com,Urgent request: system access blocked,1,Account Issue
